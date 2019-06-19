@@ -1,0 +1,48 @@
+body{
+    background-color: #FBCCF3;
+    padding-left: 350px
+   
+}
+h1{
+
+    font-style: oblique;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#uno{
+    width: 620px;
+    height: 500px;
+    border: 1px solid black;
+    float: left;
+    font-size: 40px;
+    background-color: #ADF58F;
+      }
+#dos{
+    width: 620px;
+    height: 410px;
+    border: 1px solid black;
+    float: left;
+    font-size: 20px;
+    background-color: #FAFF9B;
+}
+#tres{
+    width: 620px;
+    height: 200px;
+    border: 1px solid black;
+    float: left;
+    font-size: 20px;
+    background-color: #9BFFF4;
+}
+
+#cuatro{
+    width: 620px;
+    height: 200px;
+    border: 1px solid black;
+    float: left;
+    font-size: 20px;
+    background-color: #FF5D7D;
+}
+
+
